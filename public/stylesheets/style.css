@@ -1,0 +1,17 @@
+.nav-link {
+  background-color: #d3d3d3;
+  color: #000;
+}
+
+.nav-link:hover {
+  background-color: #4C4E52;
+  color: #fff;
+}
+
+.main-container {
+  width: 90%;
+  margin: 50px auto;
+  padding-left: 10px;
+
+
+}
